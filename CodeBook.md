@@ -21,4 +21,6 @@ This document provides information about the generated sets by the script run_an
 
 - create tidy data set with the average of each variable for each activity and each subject
 
-- The end result is write in the file 
+- The end result is write in the file tidyData.txt
+
+
