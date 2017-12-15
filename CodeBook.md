@@ -40,7 +40,4 @@ The dataset includes the following files:
 
 # Tidy Data Set
 
-The first variable subject denotes the subject number that performed an activity. In total there are 30 subjects.
-The second variable activity denotes the activity performed by the subject. There are six activites:
-WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
-A total of 79 features were selected from the original data  only the estimated mean and standard deviations. 
+The first variable subject is the subject number that performed an activity. In total there are 30 subjects. The second variable activity denotes the activity performed by the subject. There are six activites: Walking, Walking upstairs, Walking downstairs, Sitting, Standing, Laying. A total of 79 features were selected from the original data only the estimated mean and standard deviations. 
